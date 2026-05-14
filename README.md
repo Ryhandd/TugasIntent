@@ -29,7 +29,6 @@ Aplikasi ini terdiri dari dua halaman utama:
 * **Nama:** Rayhand N. U. Wumu
 * **NIM:** 24024010
 * **Kelas:** 4TI1
-* **Semester:** 4
 * **Program Studi:** Teknik Informatika
 
 ---
