@@ -33,4 +33,4 @@ Aplikasi ini terdiri dari dua halaman utama:
 * **Program Studi:** Teknik Informatika
 
 ---
-*Tugas Pemrograman Mobile - 2026*
+*Dokumentasi ini dibuat untuk keperluan akademik - 2026*
